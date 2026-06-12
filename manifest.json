@@ -1,0 +1,18 @@
+{
+  "name": "مطعم دجاج كرومي للضيافة العراقية الفاخرة",
+  "short_name": "دجاج كرومي",
+  "description": "منيو رقمي فاخر للمأكولات العراقية والشرقية والغربية",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fdf9f0",
+  "theme_color": "#0d0c0a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "img/logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
